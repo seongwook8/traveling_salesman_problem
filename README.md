@@ -9,4 +9,4 @@ The following algorithms are explored and compared to solve the TSP problem
 * 2-Opt Exchange
 * Simulated Annealing
 
-Click [HERE]() to see the project report
+Click [HERE](https://github.com/seongwook8/tsp_problem/blob/main/project_report.pdf) to see the project report
